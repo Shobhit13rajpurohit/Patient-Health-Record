@@ -1,0 +1,4 @@
+{
+  "name": "Patient Visit Tracker",
+  "description": "A web application to track patient visits and medical records, allowing users to add, edit, and view patient and visit information, and export visit details to PDF."
+}
